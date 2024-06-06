@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: sk-c15
+# Author ID: bshrestha24
 
 def is_digits(sobj):
     for char in sobj:
